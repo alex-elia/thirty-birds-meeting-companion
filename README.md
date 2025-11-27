@@ -4,7 +4,7 @@ An open-source, in-room AI meeting companion that helps facilitators keep struct
 
 ## Vision
 
-Modern working groups (like CJD commissions, boards, and peer circles) often have:
+Modern working groups (like commissions, boards, agile teams, and peer circles) often have:
 - Strict timeboxes (e.g. 45-second roundtable slots)
 - Rich discussions that easily drift off agenda
 - A single facilitator who must manage time, energy, and focus
@@ -56,11 +56,11 @@ thirty-birds-meeting-companion/
 ## Status
 
 Early design stage. The repository currently focuses on:
-- Documenting the problem
-- Rough functional specification
-- Early architectural options
+- Documenting the problem in a generic way, inspired by real facilitation experience (peer groups, CJD-style commissions, agile coaching).
+- Rough functional specification for a first, non-AI MVP.
+- Early architectural options and data model.
 
-Implementation will follow once the first design iterations are stable.
+Implementation will follow once the first design iterations and pilot plans are stable.
 
 ## License
 
